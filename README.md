@@ -1,5 +1,5 @@
 # YT Python
-A software to download and convert YouTube videos.
+A simple software to download and convert YouTube videos.
 
 ## Description
 YT Python is a Python-based software that enables users to download and convert videos from YouTube.
