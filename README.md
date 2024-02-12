@@ -15,7 +15,7 @@ There are two ways to install and run this software:
     - Run the script using: `python main.py`
 
 2. **Using the executable file:**
-    - Download the executable file and run it.
+    - Download the last realease and run the main.exe file.
 
 ## Technologies Used
 - **Python**: The programming language used.
