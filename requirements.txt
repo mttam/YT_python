@@ -1,0 +1,4 @@
+customtkinter==5.2.2
+moviepy==1.0.3
+proglog==0.1.10
+pytube==15.0.0
