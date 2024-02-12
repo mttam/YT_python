@@ -5,7 +5,11 @@ A software to download and convert YouTube videos.
 YT Python is a Python-based software that enables users to download and convert videos from YouTube.
 
 ## Prerequisites
-To use this software, you must have Python 3.10.9 or later versions installed.
+**Open source:**
+- Python 3.10.9 or later versions installed.
+
+**Executable:**
+- None just download the last realease
 
 ## Installation
 There are two ways to install and run this software:
